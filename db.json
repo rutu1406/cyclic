@@ -1,4 +1,6 @@
-[
+{
+"products":[
+
     {
     "_id": "63479bcfcd5dcfaf2dbfd723",
     "img": "https://files.myglamm.com/site-images/800x800/Beat-(1)_1.jpg",
@@ -1351,3 +1353,4 @@
                 
         
     ]
+}
